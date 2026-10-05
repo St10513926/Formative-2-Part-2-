@@ -1,0 +1,53 @@
+SNEAKER DISTRICT SA — CONTENT RESEARCH & SOURCING NOTES
+=============================================================
+
+Project type:
+Fictional South African small/medium retail organisation created for an academic web-development project.
+
+Research themes:
+1. Semantic HTML and accessibility
+2. Legal image sourcing
+3. Repository documentation and version control
+4. Website content and UX planning
+
+Key sources:
+- W3C Web Accessibility Initiative. (2026). W3C Accessibility Standards Overview.
+  https://www.w3.org/WAI/standards-guidelines/
+  Used for accessibility and standards guidance.
+
+- W3C Web Accessibility Initiative. (2026). WCAG 2 Overview.
+  https://www.w3.org/WAI/standards-guidelines/wcag/
+  Used to guide accessible web-content decisions.
+
+- W3C Web Accessibility Initiative. (2026). Content Structure.
+  https://www.w3.org/WAI/tutorials/page-structure/content/
+  Used to support semantic structure such as headings, sections and articles.
+
+- GitHub Docs. (2026). Quickstart for repositories.
+  https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+  Used for repository setup and commit workflow.
+
+- GitHub Docs. (2026). About the repository README file.
+  https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+  Used for README planning.
+
+- GitHub Docs. (2026). Commits.
+  https://docs.github.com/en/pull-requests/reference/commits
+  Used for descriptive commit-message planning.
+
+- Unsplash Help Center. (2025). Can I use Unsplash images for personal or commercial projects?
+  https://help.unsplash.com/en/articles/2612315-can-i-use-unsplash-images-for-personal-or-commercial-projects
+  Used as guidance for legally sourcing free photographic assets.
+
+- Unsplash Help Center. (2026). Releases and Trademarks.
+  https://help.unsplash.com/en/articles/2612329-releases-and-trademarks
+  Used to note that image licences do not automatically clear trademarks, identifiable people or other rights.
+
+Asset plan:
+- Logo: original SVG created for this student project; no third-party licence required.
+- Product illustrations in the Part 1 prototype: emoji/CSS placeholders so the prototype does not depend on copyrighted sneaker product photography.
+- Future photographic assets: source from Unsplash or another reputable source after checking the specific licence and any visible third-party rights.
+- Fonts: system Aptos/Arial fallback is used. If a web font is added later, record its licence and source in this file.
+
+Content note:
+All organisation history, mission, vision, product descriptions, prices, locations and contact details are fictional and created for the academic scenario. They should not be presented as real commercial claims outside the project.
