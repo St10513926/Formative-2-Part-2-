@@ -1,0 +1,6 @@
+Part 2 screenshot evidence
+---------------------------
+The four PNGs in website/images/screenshots are viewport layout evidence generated for the submission package.
+They show the intended desktop, tablet and mobile layouts at the dimensions specified in the README.
+Before final LMS submission, the student should also capture the same dimensions directly from Chrome/Edge DevTools
+and replace these evidence PNGs if the lecturer specifically requires browser-native screenshots.

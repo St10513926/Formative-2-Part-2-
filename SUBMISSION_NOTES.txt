@@ -1,0 +1,11 @@
+PART 1 SUBMISSION NOTES
+
+1. Replace all [FULL NAME], [STUDENT NUMBER], [SUBJECT NAME AND CODE] and [GROUP] placeholders.
+2. Do not claim Sneaker District SA is a real business; it is a fictional academic client.
+3. Obtain lecturer approval before treating Sneaker District SA as the final organisation.
+4. Put the supplied website folder into your GitHub repository.
+5. Create the repository as private if that is what your lecturer requires.
+6. Make commits using the descriptive messages in README.md.
+7. The Word document can be exported to PDF after your personal information is inserted.
+8. Keep a ZIP of the research/sourcing folder for the Part 1 submission.
+9. The CSS and JavaScript are included as a foundation, but Part 2/3 should expand them according to future briefs.
